@@ -1,10 +1,14 @@
 ### 👋 Привет! 
-### Меня зовут Илья Колесников. Я Python-разработчик.
+#### Меня зовут Илья Колесников. Я Python-разработчик.
+
+---
 
 ### О себе:
 - 📚 Обожаю IT и занимаюсь разработкой на Python.
 - 🎓 Получил степень магистра в 21м году в УрФУ, ИРИТ-РТФ. В 22м году обучался в Яндекс.Практикуме, Python-разработка.
 - 💻 Сейчас занимаюсь веб-разработкой - Django, DRF. Изучаю Flask и FastAPI. Есть опыт работы над ML-проектом (Rasa Framework).
+
+---
 
 #### Инструменты:
 <div>
@@ -23,12 +27,13 @@
 #### Связаться со мной:
 ![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)
 
+---
 
 ### Статистика:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Whitenz&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whitenz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Whitenz&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!---
 Whitenz/Whitenz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
