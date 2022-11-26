@@ -10,7 +10,7 @@
 
 ---
 
-#### Инструменты:
+### Инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>
@@ -24,7 +24,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>  
 </div>
 
-#### Связаться со мной:
+--- 
+
+### Связаться со мной:
 ![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)
 
 ---
