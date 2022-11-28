@@ -13,6 +13,7 @@
 ### Стэк:
 - Python3
 - Django 3.2
+- Django Rest Framework
 - Rasa
 - pytest
 - PostgreSQL
